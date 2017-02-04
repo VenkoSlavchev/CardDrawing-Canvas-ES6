@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#title {
+    display: block;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 2.7em;
+    margin: 5px 0;
+    color: red;
+    min-width: 500px;
+}
+
+#blackjack-section {
+    text-align: center;
+    background-image: url(../images/TableBackground.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: auto;
+
+
+}
